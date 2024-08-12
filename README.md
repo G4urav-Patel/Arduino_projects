@@ -1,2 +1,2 @@
 # Arduino_projects
-I am starting my journey from here lets build togather
+In this Projects I have build a simple project which measures DC voltage and show on 16x2 lcd display.
